@@ -24,3 +24,4 @@ users[tmpData[0]]=[tmpData[1], tmpData[2]]
 name=input("조회하고자 하는 사용자 이름을 입력해주세요: ")
 print("\n이름: " + name + " 나이: " + users[name][0] + "학년" +
       users[name][1])
+
